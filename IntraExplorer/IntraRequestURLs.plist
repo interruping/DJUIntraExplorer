@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intraPrivateTotalGrade</key>
+	<string>http://intra.dju.kr/servlet/su.suh.suh04Svl01?pgm_id=W_SUH080PQ&amp;pass_gbn=001&amp;dpt_ck=</string>
+	<key>intraBankAccountRegister</key>
+	<string> http://intra.dju.kr/jsp/su/suc/suc01Jsp23.jsp?pgm_id=W_SUB910PE&amp;pass_gbn=&amp;dpt_ck=03</string>
+	<key>intraSpecialLectureToeicScore</key>
+	<string>http://intra.dju.kr/servlet/su.sul.sul01Svl30?pgm_id=W_SUL350PR&amp;pass_gbn=&amp;dpt_ck=</string>
+	<key>intraBasicUserInfoURL</key>
+	<string>http://intra.dju.kr/jsp/su/sud/sud11Jsp13.jsp?pgm_id=W_SUD007PQ&amp;pass_gbn=&amp;dpt_ck=01</string>
+	<key>intraLoginURL</key>
+	<string>http://intra.dju.kr/servlet/sys.syd.syd01Svl03</string>
+</dict>
+</plist>
